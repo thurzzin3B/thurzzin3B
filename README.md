@@ -3,6 +3,7 @@
 )](https://instagram.com/arthur_quinholi)
 
 -Estou estudando na [Alura](https://www.alura.com.br)
+
 -Estou me desenvolver na linguagem JavaScript 💻
 
 
