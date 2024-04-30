@@ -2,6 +2,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/arthur_quinholi)
 
-
+-Estou estudando na [Alura](https://www.alura.com.br)
+-Estou me desenvolver na linguagem JavaScript 💻
 
 
