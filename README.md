@@ -1,11 +1,7 @@
 ### Hello! | I'am Arthur    🖐🏼👨🏻‍💻🚀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://instagram.com/fabiocamilo46)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
-)](https://www.linkedin.com/in/fabio-camilo-308990214/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/fabio-camilo-308990214/)
+)](https://instagram.com/)
 
 ##
 <div>
